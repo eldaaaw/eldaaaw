@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on [https://eldaw.net/](https://eldaw.net/)
-- 💬 Ask me about Shopify, Liquid and Tailwind
+- 💬 Ask me about Python, JavaScript and Tailwind
 - 📫 How to reach me: [@elmustafadev](https://twitter.com/ElmustafaDev) on Twitter or [@Eldaw Elmustafa](https://www.linkedin.com/in/elmustafa-eldaw/) on LinkdeIn
 <!---
 eldaaaw/eldaaaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
