@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![wakatime](https://wakatime.com/badge/user/9e273bd7-23de-4ce4-a7ee-772ead824d1d.svg)
-
+![Eldaw](https://hit.yhype.me/github/profile?user_id=29577041)
 
 - 🔭 I’m currently working on [https://eldaw.net/](https://eldaw.net/)
 - 💬 Ask me about Python, JavaScript and Tailwind
@@ -10,4 +10,4 @@
 eldaaaw/eldaaaw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![](https://hit.yhype.me/github/profile?user_id=29577041)
+
