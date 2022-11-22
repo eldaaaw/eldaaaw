@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi , I'm  Eldaw, Elmustafa </h1>
 <h3 align="center">A passionate frontend developer from Sudan</h3>
-<h4 align="center" style="color:blue;"> ><i>Welocme to my profile</i></h4>
+<h4 align="center"> <i>Welocme to my profile</i></h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eldaaaw&label=Profile%20views&color=0e75b6&style=flat" alt="eldaaaw" /> </p>
 
