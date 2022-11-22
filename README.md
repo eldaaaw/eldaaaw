@@ -1,10 +1,11 @@
 ### Hi there 👋
 
-![wakatime](https://wakatime.com/badge/user/9e273bd7-23de-4ce4-a7ee-772ead824d1d.svg)
+
 <h1 align="center">Hi 👋, I'm Elmustafa Eldaw</h1>
 <h3 align="center">A passionate frontend developer from Sudan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eldaaaw&label=Profile%20views&color=0e75b6&style=flat" alt="eldaaaw" /> </p>
+![wakatime](https://wakatime.com/badge/user/9e273bd7-23de-4ce4-a7ee-772ead824d1d.svg)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eldaaaw" alt="eldaaaw" /></a> </p>
 
