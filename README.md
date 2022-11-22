@@ -1,8 +1,9 @@
 ### 
 
 
-<h1 align="center">Hi 👋, I'm Elmustafa Eldaw</h1>
+<h1 align="center">Hi , I'm  Eldaw, Elmustafa </h1>
 <h3 align="center">A passionate frontend developer from Sudan</h3>
+<h4 align="center">Welocme</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eldaaaw&label=Profile%20views&color=0e75b6&style=flat" alt="eldaaaw" /> </p>
 
@@ -11,11 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/eldawswe" target="blank"><img src="https://img.shields.io/twitter/follow/eldawswe?logo=twitter&style=for-the-badge" alt="eldawswe" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](www.eldaw.net)
-
 - 🌱 I’m currently learning **Python, R, Django, Tailwind, JavaScript and React**
-
-- 👯 I’m looking to collaborate on **Open source**
 
 - 💬 Ask me about **Python, JavaScript and Tailwind**
 
