@@ -7,8 +7,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eldaaaw&label=Profile%20views&color=0e75b6&style=flat" alt="eldaaaw" /> </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eldaaaw" alt="eldaaaw" /></a> </p>
-
 [![wakatime](https://wakatime.com/badge/user/9e273bd7-23de-4ce4-a7ee-772ead824d1d.svg)](https://wakatime.com/@9e273bd7-23de-4ce4-a7ee-772ead824d1d)
 
 <p align="left"> <a href="https://twitter.com/eldawswe" target="blank"><img src="https://img.shields.io/twitter/follow/eldawswe?logo=twitter&style=for-the-badge" alt="eldawswe" /></a> </p>
