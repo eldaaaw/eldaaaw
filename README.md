@@ -12,13 +12,9 @@
 
 <p align="left"> <a href="https://twitter.com/eldawswe" target="blank"><img src="https://img.shields.io/twitter/follow/eldawswe?logo=twitter&style=for-the-badge" alt="eldawswe" /></a> </p>
 
-- 🌱 I’m currently learning **Python, R, Django, Tailwind, JavaScript and React**
-
-- 💬 Ask me about **Python, JavaScript and Tailwind**
+- 🌱 I’m currently learning ** JavaScript and React**
 
 - 📫 How to reach me **mustafa.eldaw@gmail.com**
-
-- ⚡ Fun fact **I used to be a UI/UX designer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
